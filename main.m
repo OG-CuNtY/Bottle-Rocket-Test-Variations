@@ -1,6 +1,6 @@
 %{
 Author: Mark Anifowose 
-Assignment: ASEN2012 - Project 2 - Water Bottle Rocket Flight, Fall 2024
+Assignment: Water Bottle Rocket Flight.
 Creation Date: 11/15/2024
 Inputs: project2verification.mat
 Outputs: A model of the flight of a bottle rocket in comparison to a verification test case. 
